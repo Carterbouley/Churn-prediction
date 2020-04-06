@@ -40,44 +40,26 @@ I performed various machine learning techniques, dealing with the class imbalanc
 
 |Model     |  Accuracy Score   | Area Under Curve   | 
 |---------|-----------------|-----------------|
-|Logistic Regredssion (baseline)| 0.7899        | 0.7094
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+|Logistic Regression (baseline)| 0.7899        | 0.7094
+|Logistic Regression (SMOTE) |    0.7483    | 0.7623
+|Logistic Regression (RFE)| 0.7415       | 0.7557
+|Decision Tree |    0.7682    | 0.7119
+|KNN Classification| 0.6970        | 0.7193
+|Random Forest |    0.836    | 0.76851
+|Naive Bayes| 0.7472       | 0.7609
+|SVM classifier Linear |    0.7084    | 0.7477
+|SVM classifier RBF |    0.7614    | 0.6452
+|XGBoost Classifier |    0.7517    | 0.6739
+
 
 
 
 ### Needs of this project
-frontend developers
+
 data exploration/descriptive statistics
 data processing/cleaning
 statistical modeling
 writeup/reporting
-etc. (be as specific as possible)
-Getting Started
-Clone this repo (for help see this tutorial).
 
-Raw Data is being kept [here](Repo folder containing raw data) within this repo.
 
-If using offline data mention that and how they may obtain the data from the froup)
-
-Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-
-etc...
-
-If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here
-
-Follow setup [instructions](Link to file)
-Featured Notebooks/Analysis/Deliverables
-Notebook/Markdown/Slide Deck Title
-Notebook/Markdown/Slide DeckTitle
-Blog Post
-Contributing DSWG Members
-Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)
-
-Other Members:
-Name	Slack Handle
-[Full Name](https://github.com/[github handle])	@johnDoe
-[Full Name](https://github.com/[github handle])	@janeDoe
-Contact
-If you haven't joined the SF Brigade Slack, you can do that here.
-Our slack channel is #datasci-projectname
-Feel free to contact team leads with any questions or if you are interested in contributing!
+Feel free to contact me with any questions!
